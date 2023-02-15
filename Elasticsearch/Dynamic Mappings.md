@@ -59,8 +59,6 @@ PUT index_name
 }
 ```
 
-```text
-注: 
+**注:
   index options
-  dynamic Template
-```
+  dynamic Template**

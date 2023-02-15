@@ -11,3 +11,4 @@
 * vmstat
 *   - vmstat -w   查看系统内存, CPU, CPU上下文切换的运行情况
 * perf
+    - perf top -p PID   查看进程的
